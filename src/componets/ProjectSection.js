@@ -43,7 +43,7 @@ const ProjectSectionStyle = styled.div`
     font-size: 2rem;
   }
   @media only screen and (max-width: 768px) {
-    padding-top: 22px;
+    padding-top: 20px;
     .container{
       margin-top: 1rem;
     }

@@ -19,7 +19,7 @@ padding: 10rem 0;
   }
   @media only screen and (max-width:768px){
     
-    padding-top: 15px;
+    padding-top: 16px;
     .about__info__items{
       margin-top: 5rem;
     }
