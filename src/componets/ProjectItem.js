@@ -34,7 +34,7 @@ const ProjectItemStyles = styled.div`
       height: 250px;
     }
     .projectItem__info{
-      height: 350px;
+      height: 355px;
     }
     
   }

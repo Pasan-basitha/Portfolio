@@ -52,7 +52,7 @@ padding: 10rem 0;
 
 @media only screen and (max-width: 968px) {
    
-padding-top: 25px;
+padding-top: 24px;
 .container{
     flex-direction: column;
     text-align: center;
