@@ -31,8 +31,12 @@ const ProjectItemStyles = styled.div`
   }
   @media only screen and (max-width: 768px) {
     .projectItem__img {
+      height: 250px;
+    }
+    .projectItem__info{
       height: 350px;
     }
+    
   }
 `;
 

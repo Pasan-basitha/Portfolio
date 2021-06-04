@@ -43,11 +43,15 @@ const ProjectSectionStyle = styled.div`
     font-size: 2rem;
   }
   @media only screen and (max-width: 768px) {
+    padding-top: 20px;
+    .container{
+      margin-top: 1rem;
+    }
     .projects__allItems {
       flex-direction: column;
       max-width: 400px;
       margin: 0 auto;
-      margin-top: 7rem;
+      margin-top: 4rem;
       gap: 5rem;
       .projectItem__img {
         width: 100%;

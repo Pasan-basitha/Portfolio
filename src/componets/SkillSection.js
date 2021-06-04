@@ -18,6 +18,11 @@ padding: 10rem 0;
     
   }
   @media only screen and (max-width:768px){
+    
+    padding-top: 15px;
+    .about__info__items{
+      margin-top: 5rem;
+    }
     .about__info__heading{
         font-size: 3rem;
     }
